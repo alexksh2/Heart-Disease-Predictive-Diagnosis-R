@@ -75,12 +75,14 @@ __Variable Importance Bar Chart of CART Model:__ <br>
 <br>
 
 __Variable Importance Plot of Random Forest:__ <br>
-![Variable Importance Plot of Random Forest](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/a6f3166f-7f50-417b-9fd3-9ac525c717dd)
+![Variable Importance Plot of Random Forest](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/4036fe18-2a2b-42c4-be40-daf8ef6fe2a2)
 
 <br>
 <br>
 
 
+
+Conclusion: Both tree models (CART and Random Forest) found that Thal is the most significant variable in heart disease predictive diagnosis
 
 # Citation
 World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1 <br>
