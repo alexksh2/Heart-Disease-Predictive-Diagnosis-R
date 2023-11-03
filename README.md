@@ -1,5 +1,5 @@
 # Heart_Disease_Predictive_Diagnosis
-According to the World Health Organisation, cardiovascular disease are the most significant cause of mortality annually as it results in the deaths of approximately  17.9 million individuals every year (World Health Organization, 2019). While the healtcare industry generates substantial data on patients, diseases and diagnosis, it is found that these data are not properly analysed.  <br>
+According to the World Health Organisation, cardiovascular disease are the most significant cause of mortality annually as it results in the deaths of __approximately  17.9 million individuals every year__ (World Health Organization, 2019). While __the healthcare industry generates substantial data__ on patients, diseases and diagnosis, it is found that __these data are not properly analysed__.  <br>
 
 The key root cause for heart disease often in the context of sex, smoking, age, family history, poor diet, cholesterol, physical inactivity, high blood pressure, overweightness, and alcohol use. <br>
 
