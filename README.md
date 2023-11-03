@@ -84,7 +84,7 @@ __Variable Importance Plot of Random Forest:__ <br>
 
 
 
-Conclusion: Both tree models (CART and Random Forest) found that Thal is the most significant variable in heart disease predictive diagnosis
+Conclusion: __Both tree models (CART and Random Forest) found that Thal is the most significant variable in heart disease predictive diagnosis__.
 
 # Citation
 World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1 <br>
