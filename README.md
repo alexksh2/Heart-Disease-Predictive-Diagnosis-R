@@ -41,29 +41,29 @@ Undersampling have been done to reduce class imbalance such that the selection b
 
 
 # Model Results
-1. Logistic Regression <br>
+__1. Logistic Regression__ <br>
    Overall Accuracy Rate: 208/250 = 83.2% <br>
    F1 score: 0.8384615 <br>
    F2 score: 0.8582677 <br>
 
-2. K-Nearest Neighbours <br>
+__2. K-Nearest Neighbours__ <br>
    Overall Accuracy Rate: 211/250 = 84.4% <br>
    F1 score: 0.8368201 <br>
    F2 score: 0.8143322 <br>
 
-3. Classification and Regression Tree (Classification) <br>
+__3. Classification and Regression Tree (Classification)__ <br>
    Overall Accuracy Rate: 234/250 = 93.6% <br>
    F1 score: 0.936 <br>
    F2 score: 0.936 <br>
 
-4. Random Forest <br>
+__4. Random Forest__ <br>
    Overall Accuracy Rate: 244/250 = 97.6% <br>
    F1 score: 0.9758065 <br>
    F2 score: 0.9711075 <br>
    
 
 __Intrepretation of Model Results:__ <br>
-The analytical results found that Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model.
+The analytical results found that __Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis__ as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model.
 
 
 # Citation
