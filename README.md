@@ -66,6 +66,16 @@ __Intrepretation of Model Results:__ <br>
 The analytical results found that __Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis__ as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model.
 
 
+__Variable Importance Bar Chart of CART Model__: <br>
+![Variable Importance Bar Chart (Optimal CART Model)](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/d2e662ee-4a1c-4985-ab5d-43f2863e43f6)
+
+<br>
+<br>
+__Variable Importance Plot of Random Forest__: <br>
+![Variable Importance Plot of Random Forest](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/a6f3166f-7f50-417b-9fd3-9ac525c717dd)
+
+
+
 # Citation
 World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1 <br>
 
