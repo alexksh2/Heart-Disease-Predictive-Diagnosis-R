@@ -1,4 +1,15 @@
 # Heart_Disease_Predictive_Diagnosis
+According to the World Health Organisation, cardiovascular disease are the most significant cause of mortality annually as it results in the deaths of approximately  17.9 million individuals every year (World Health Organization, 2019). While the healtcare industry generates substantial data on patients, diseases and diagnosis, it is found that these data are not properly analysed.  <br>
+
+The key root cause for heart disease often in the context of sex, smoking, age, family history, poor diet, cholesterol, physical inactivity, high blood pressure, overweightness, and alcohol use. <br>
+
+Therefore, this proposal aims to study 
+
+
+
+
+
+
 
 ![UDMI_Cardiovascular-Disease](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/575e295e-984a-4fc9-9acd-7eb3f4c85f71)
 
@@ -23,3 +34,9 @@ __Context__ <br>
 12. number of major vessels (0-3) colored by flourosopy <br>
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect <br>
 14. The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. <br>
+
+
+
+# Citation
+World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1
+
