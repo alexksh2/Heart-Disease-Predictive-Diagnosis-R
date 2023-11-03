@@ -1,7 +1,8 @@
 # Heart_Disease_Predictive_Diagnosis
 
+![UDMI_Cardiovascular-Disease](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/575e295e-984a-4fc9-9acd-7eb3f4c85f71)
 
-# The Datasetp
+# The Dataset
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
 __Content__ <br>
