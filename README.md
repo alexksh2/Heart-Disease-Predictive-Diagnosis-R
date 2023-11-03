@@ -1,5 +1,5 @@
 # Heart_Disease_Predictive_Diagnosis
-According to the World Health Organisation, cardiovascular disease are the most significant cause of mortality annually as it results in the deaths of __approximately  17.9 million individuals every year__ (World Health Organization, 2019). While __the healthcare industry generates substantial data__ on patients, diseases and diagnosis, it is found that __these data are not properly analysed__.  <br>
+According to the World Health Organisation, cardiovascular disease are the most significant cause of mortality annually as it results in the deaths of __approximately  17.9 million individuals every year__ (World Health Organization, 2019). While __the healthcare industry generates substantial data__ on patients, diseases and diagnosis, it is found that __these data are not properly analysed__.  (Hassan, 2022) <br>
 
 The key root cause for heart disease often in the context of __sex, smoking, age, family history, poor diet, cholesterol, physical inactivity, high blood pressure, overweightness, and alcohol use.__ <br>
 
@@ -40,3 +40,4 @@ __Context__ <br>
 # Citation
 World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1
 
+Hassan, Ch. A. ul, Iqbal, J., Irfan, R., Hussain, S., Algarni, A. D., Bukhari, S. S. H., Alturki, N., & Ullah, S. S. (2022). Effectively Predicting the Presence of Coronary Heart Disease Using Machine Learning Classifiers. Sensors, 22(19), 7227. https://doi.org/10.3390/s22197227
