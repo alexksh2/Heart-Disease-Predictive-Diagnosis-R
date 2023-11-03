@@ -36,7 +36,7 @@ __Context__ <br>
 
 
 # Data Treatment
-Undersampling have been done to reduce class imbalance such that the selection bias of ML models generated using this input dataset can be reduced.
+Undersampling have been done to reduce class imbalance such that the ML model outputs are not biased towards the majority class.  (Yenigün, O. 2023).
 
 
 
@@ -67,6 +67,8 @@ The analytical results found that __Random Forest Model has the highest predicti
 
 
 # Citation
-World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1
+World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1 <br>
 
-Hassan, Ch. A. ul, Iqbal, J., Irfan, R., Hussain, S., Algarni, A. D., Bukhari, S. S. H., Alturki, N., & Ullah, S. S. (2022). Effectively Predicting the Presence of Coronary Heart Disease Using Machine Learning Classifiers. Sensors, 22(19), 7227. https://doi.org/10.3390/s22197227
+Hassan, Ch. A. ul, Iqbal, J., Irfan, R., Hussain, S., Algarni, A. D., Bukhari, S. S. H., Alturki, N., & Ullah, S. S. (2022). Effectively Predicting the Presence of Coronary Heart Disease Using Machine Learning Classifiers. Sensors, 22(19), 7227. https://doi.org/10.3390/s22197227 <br>
+
+Yenigün, O. (2023, March 29). Handling Class Imbalance in Machine Learning. MLearning.ai. https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce
