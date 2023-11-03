@@ -14,7 +14,6 @@ Therefore, the objective of this study is to effectively predicting the presence
 ![UDMI_Cardiovascular-Disease](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/575e295e-984a-4fc9-9acd-7eb3f4c85f71)
 
 # The Dataset
-This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
 __Content__ <br>
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease. <br>
@@ -35,6 +34,36 @@ __Context__ <br>
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect <br>
 14. The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. <br>
 
+
+# Data Treatment
+Undersampling have been done to reduce class imbalance such that the selection bias of ML models generated using this input dataset can be reduced.
+
+
+
+# Model Results
+1. Logistic Regression <br>
+   Overall Accuracy Rate: 208/250 = 83.2% <br>
+   F1 score: 0.8384615 <br>
+   F2 score: 0.8582677 <br>
+
+2. K-Nearest Neighbours <br>
+   Overall Accuracy Rate: 211/250 = 84.4% <br>
+   F1 score: 0.8368201 <br>
+   F2 score: 0.8143322 <br>
+
+3. Classification and Regression Tree (Classification) <br>
+   Overall Accuracy Rate: 234/250 = 93.6% <br>
+   F1 score: 0.936 <br>
+   F2 score: 0.936 <br>
+
+4. Random Forest <br>
+   Overall Accuracy Rate: 244/250 = 97.6% <br>
+   F1 score: 0.9758065 <br>
+   F2 score: 0.9711075 <br>
+   
+
+__Intrepretation of Model Results:__ <br>
+The analytical results found that Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model.
 
 
 # Citation
