@@ -87,7 +87,7 @@ Conclusion: Both tree models (CART and Random Forest) results indicated that Tha
 <br>
 
 # Analysis on Results
-__Thal variables refer to the results of Thallium stress test__, which are often used in nuclear medicine to evaluate blood flow to the heart muscle. Thallium is a radioactive substance that is injected into the bloodstream for __coronary arteriogram procedure__. <br>
+__Thal variables refer to the results of Thallium stress test__, which are often used in nuclear medicine to evaluate blood flow to the heart muscle and __diagnose coronary artery disease__ (Mayo Clinic. 2017). Thallium is a radioactive substance that is injected into the bloodstream for __coronary arteriogram procedure__. <br>
 
 __Normal (Thal 0):__ The results indicates no significant issues concerning blood flow to heart during rest and stress. Therefore, there is a consistent blood supply through coronary arteries to the cardiac muscles. <br>
 
@@ -106,5 +106,6 @@ Hassan, Ch. A. ul, Iqbal, J., Irfan, R., Hussain, S., Algarni, A. D., Bukhari, S
 
 Yenigün, O. (2023, March 29). Handling Class Imbalance in Machine Learning. MLearning.ai. https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce <br>
 
+Mayo Clinic. (2017). Nuclear stress test - Mayo Clinic. Mayoclinic.org. https://www.mayoclinic.org/tests-procedures/nuclear-stress-test/about/pac-20385231 <br>
 
 Stolzenberg, J., & London, R. (1979). Reliability of stress thallium-201 scanning in the clinical evaluation of coronary artery disease. Clinical Nuclear Medicine, 4(6), 225–228. https://doi.org/10.1097/00003072-197906000-00001
