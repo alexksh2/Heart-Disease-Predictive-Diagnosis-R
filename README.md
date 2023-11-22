@@ -3,7 +3,7 @@ According to the World Health Organisation, cardiovascular disease are the most 
 
 The key root cause for heart disease often in the context of __sex, smoking, age, family history, poor diet, cholesterol, physical inactivity, high blood pressure, overweightness, and alcohol use.__ <br>
 
-Therefore, the objective of this study is to effectively predicting the presence of coronary heart disease Using machine learning classifiers such as __Logistic Regression, K-Nearest Neighbours, Classification and Regression Tree and Random Forest__.
+Therefore, the objective of this study is to effectively predicting the presence of coronary heart disease using machine learning classifiers such as __Logistic Regression, K-Nearest Neighbours, Classification and Regression Tree and Random Forest__.
 
 
 
