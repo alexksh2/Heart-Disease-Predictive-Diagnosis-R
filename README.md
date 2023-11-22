@@ -79,7 +79,11 @@ __Variable Importance Bar Chart of CART Model:__ <br>
 __Variable Importance Plot of Random Forest:__ <br>
 ![Variable Importance Plot of Random Forest](https://github.com/alexksh2/Heart_Disease_Predictive_Diagnosis/assets/138288828/4036fe18-2a2b-42c4-be40-daf8ef6fe2a2)
 
+
 <br>
+<br>
+Conclusion: __Both tree models (CART and Random Forest) results indicated that Thal is the most significant variable in heart disease predictive diagnosis__. <br>
+
 <br>
 
 # Analysis on Results
@@ -94,8 +98,6 @@ __Reversible Defect (Thal 2):__ This result indicates that there is areduction i
 
 The result has also __proven the accuracy of stress thallium-201 scanning procedure__, which is found to be a __highly sensitive and specific screening procedure__ for 52 consecutive myocardial ischemia patients (Stolzenberg, J., & London, R. 1979). <br>
 
-
-Conclusion: __Both tree models (CART and Random Forest) results indicated that Thal is the most significant variable in heart disease predictive diagnosis__. <br>
 
 # Citation
 World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.int; World Health Organization: WHO. https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1 <br>
