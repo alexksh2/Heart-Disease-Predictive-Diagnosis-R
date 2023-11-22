@@ -44,22 +44,22 @@ Undersampling have been done to reduce class imbalance such that the ML model ou
 
 # Model Results
 __1. Logistic Regression__ <br>
-   Overall Accuracy Rate: 208/250 = 83.2% <br>
+   Overall Accuracy Rate: 208/250 = __83.2%__ <br>
    F1 score: 0.8384615 <br>
    F2 score: 0.8582677 <br>
 
 __2. K-Nearest Neighbours__ <br>
-   Overall Accuracy Rate: 211/250 = 84.4% <br>
+   Overall Accuracy Rate: 211/250 = __84.4%__ <br>
    F1 score: 0.8368201 <br>
    F2 score: 0.8143322 <br>
 
 __3. Classification and Regression Tree (Classification)__ <br>
-   Overall Accuracy Rate: 234/250 = 93.6% <br>
+   Overall Accuracy Rate: 234/250 = __93.6%__ <br>
    F1 score: 0.936 <br>
    F2 score: 0.936 <br>
 
 __4. Random Forest__ <br>
-   Overall Accuracy Rate: 244/250 = 97.6% <br>
+   Overall Accuracy Rate: 244/250 = __97.6%__ <br>
    F1 score: 0.9758065 <br>
    F2 score: 0.9711075 <br>
    
