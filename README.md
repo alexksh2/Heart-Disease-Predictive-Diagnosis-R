@@ -82,6 +82,19 @@ __Variable Importance Plot of Random Forest:__ <br>
 <br>
 <br>
 
+# Analysis on Results
+Thal variables refer to the results of Thallium stress test, which are often used in nuclear medicine to evaluate blood flow to the heart muscle. Thallium is a radioactive substance that is injected into the bloodstream, and a special camera is used to take images of the heart.
+
+Normal (Thal 0): The results indicates no significant issues concerning blodd flow to heart during rest and stress. Therefore, there is a consistent blood supply through coronary arteries to the cardiac muscles.
+
+Fixed Defect (Thal 1): This result suggests that an area of cardiac muscles is not receiving adequate blood flow during rest and stress and this might be indicator of a past heart condition which has lead to permanent damage to the cardiac tissues.
+
+Reversible Defect (Thal 2): This result indicates that there is a reduction in blood flow to a certain area of the heart during stress, but the blood flow improves when the stress is relieved.  It suggests a temporary blood flow issue, which may be caused by myocardial ischemia despite mycordial infarction has not occured.
+
+
+The result has also proven the accuracy of stress thallium-201 scanning procedure, which is found to be a highly sensitive and specific screening procedure for 52 consecutive myocardial ischemia patients (Stolzenberg, J., & London, R. 1979).
+
+
 
 
 Conclusion: __Both tree models (CART and Random Forest) results indicated that Thal is the most significant variable in heart disease predictive diagnosis__.
@@ -91,4 +104,7 @@ World Health Organization: WHO. (2019, June 11). Cardiovascular diseases. Who.in
 
 Hassan, Ch. A. ul, Iqbal, J., Irfan, R., Hussain, S., Algarni, A. D., Bukhari, S. S. H., Alturki, N., & Ullah, S. S. (2022). Effectively Predicting the Presence of Coronary Heart Disease Using Machine Learning Classifiers. Sensors, 22(19), 7227. https://doi.org/10.3390/s22197227 <br>
 
-Yenigün, O. (2023, March 29). Handling Class Imbalance in Machine Learning. MLearning.ai. https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce
+Yenigün, O. (2023, March 29). Handling Class Imbalance in Machine Learning. MLearning.ai. https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce <br>
+
+
+Stolzenberg, J., & London, R. (1979). Reliability of stress thallium-201 scanning in the clinical evaluation of coronary artery disease. Clinical Nuclear Medicine, 4(6), 225–228. https://doi.org/10.1097/00003072-197906000-00001
