@@ -65,7 +65,7 @@ __4. Random Forest__ <br>
    
 
 __Intrepretation of Model Results:__ <br>
-The analytical results found that __Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis__ as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model.
+The analytical results found that __Random Forest Model has the highest predictive accuracy on heart disease predictive diagnosis__ as it has the highest overall accuracy rate (97%), F1 score and F2 score as compared to __logistic regression model, K-Nearest Neighbors model and Classification and Regression Tree Model__.
 
 <br>
 <br>
