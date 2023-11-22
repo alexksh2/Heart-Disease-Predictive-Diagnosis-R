@@ -38,7 +38,7 @@ __Context__ <br>
 
 
 # Data Treatment
-Undersampling have been done to reduce class imbalance such that the ML model outputs are not biased towards the majority class.  (Yenigün, O. 2023).
+__Undersampling__ have been done to reduce class imbalance such that the ML model outputs are not biased towards the majority class.  (Yenigün, O. 2023).
 
 
 
